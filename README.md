@@ -1,4 +1,4 @@
-# Xe dò line
+# Xe dò line + tránh vật 
 
 Firmware điều khiển robot dò line bằng 8 cảm biến hồng ngoại và PID. Dự án có encoder để đo chuyển động, màn hình OLED và Bluetooth để theo dõi trạng thái; cảm biến VL53L0X được dùng để phát hiện vật cản.
 
